@@ -65,6 +65,7 @@
 <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws"/>
 <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres"/>
 <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring"/>
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker"/>
 <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/>
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS"/>
 <img src="https://skillicons.dev/icons?i=pnpm" width="48" height="48" alt="pnpm"/>
